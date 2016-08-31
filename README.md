@@ -1,1 +1,1 @@
-# fur
+# fur -- python
